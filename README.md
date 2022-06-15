@@ -1,4 +1,7 @@
 # Platonic Solids
+
+I AM NOT ACTUALLY WORKING IN THIS REPOSITORY, ANYWAY, YOU CAN SEND ME ANY DOUBT AT MY TWITTER. 
+
 In this repository, I code in POV-Ray how to build the 5 platonic solids: cube, octahedron, tetrahedron, icosahedron, and dodecahedron.
 
 How I SUGGEST to read them:
